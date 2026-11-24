@@ -1,1 +1,0 @@
-var e=`/assets/ceo-DrClQ8UU.png`,t=`/assets/hos-01dMxra-.webp`;export{e as n,t};
